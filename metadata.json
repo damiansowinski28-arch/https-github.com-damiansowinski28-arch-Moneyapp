@@ -1,0 +1,8 @@
+{
+  "name": "MoneyMind",
+  "description": "Inteligentna platforma zarządzania finansami osobistymi z analityką, budżetowaniem, celami oszczędnościowymi i asystentem AI MoneyMind.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
